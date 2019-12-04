@@ -31,6 +31,6 @@
     "udp_timeout": 60,
     "dns_ipv6": false,
     "connect_verbose_info": 0,
-    "redirect": ["m.media-amazon.com", "kdp.amazon.com"],
+    "redirect": ["outlook.live.com"],
     "fast_open": false
 }
